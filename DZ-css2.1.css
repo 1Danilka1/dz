@@ -1,0 +1,14 @@
+#in1:focus {
+    color: green;
+    font-weight: bold;
+}
+
+#in2:focus {
+    color: orangered;
+    border: 1px solid orangered;
+    box-shadow: 0px 0px 3px orangered;
+}
+
+#in3:focus {
+    width:400px;
+}

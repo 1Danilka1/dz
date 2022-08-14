@@ -1,0 +1,113 @@
+h1 {
+    color:aquamarine;
+}
+
+/* 12 */
+.ul-12 li:first-child {
+    color: red;
+}
+
+.ul-12 li:last-child {
+    color: green;
+}
+
+
+/* 13 */
+.ul-13 li:nth-child(3) {
+    color: aqua;
+}
+
+
+/* 14 */
+.ul-14 li:nth-child(odd) {
+    color: green
+}
+
+.ul-14 li:nth-child(even) {
+    color: red;
+}
+
+
+/* 15 */
+.ol-15 li:nth-child(3n) {
+        color: red;
+}
+
+
+/* 16 */
+.ol-16 li:nth-last-child(2) {
+    color: red;
+}
+
+
+/* 17 */
+.ul-17 li:only-child {
+    color: red;
+}
+
+
+/* 18 */
+input[type="checkbox"] {
+    color:red;
+}
+
+
+/* 19 */
+.input1 {
+    border: 1px solid green;
+    box-shadow: 0px 0px 3px green;
+}
+
+.input2 {
+    border: 1px solid red;
+    box-shadow: 0px 0px 3px red;
+}
+
+
+/* 20 */
+.ul20 li {
+    border: 1px solid red;
+    padding: 3px;
+    margin-top: 10px;
+    width: 100px;
+}
+
+.empty:empty {
+    border: 1px solid blue;
+}
+
+
+/* 21 */
+p {
+    color:red;
+}
+
+.test {
+    color: black;
+}
+
+
+/* 22 */
+.ul22 {
+    color: red;
+}
+
+.ul22 li:first-child {
+    color: black;
+}
+
+
+/* 23 */
+.ul23 {
+    color: red;
+}
+
+.ul23 li:nth-child(3) {
+    color: black;
+}
+
+
+/* 24 */
+div p {
+    color:black;
+}
